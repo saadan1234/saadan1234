@@ -3,8 +3,8 @@
 Welcome to my **Crafting Labratory**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadan1234&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" height="200px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadan1234&theme=tokyonight" alt="mystreak" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadan1234&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadan1234&theme=tokyonight" alt="mystreak" height="150px" />
 </p>
 
 ## Key Contributions
