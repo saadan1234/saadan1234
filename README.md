@@ -2,6 +2,8 @@
 
 Welcome to my **Crafting Labratory**
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadan1234&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ## Key Contributions
 
 ### Optical Networks and Technologies Lab
@@ -28,4 +30,6 @@ In addition to my formal education from **National University of Sciences and Te
 I look forward to keep growing in the field of Deep Learning and AI. My passion lies in research and crafting practical solutions around novel approaches yet to be implemented. Currently I am working on a project regarding implementation of federated learning with enhanced usability and generalization to be available for everyone.
 
 For more information about my work, projects, and contributions, please visit my [LinkedIn profile](https://www.linkedin.com/in/muhammad-saadan-975474249/).
+
+<img src="https://myreadme.vercel.app/api/embed/saadan1234?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
