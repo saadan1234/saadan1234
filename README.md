@@ -31,5 +31,5 @@ I look forward to keep growing in the field of Deep Learning and AI. My passion 
 
 For more information about my work, projects, and contributions, please visit my [LinkedIn profile](https://www.linkedin.com/in/muhammad-saadan-975474249/).
 
-<img src="https://myreadme.vercel.app/api/embed/saadan1234?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/saadan1234?panels=userstatistics,toplanguages,commitgraph,toprepositories" alt="reimaginedreadme" />
 
