@@ -2,7 +2,10 @@
 
 Welcome to my **Crafting Labratory**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadan1234&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadan1234&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" height="200px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadan1234&theme=tokyonight" alt="mystreak" height="200px" />
+</p>
 
 ## Key Contributions
 
@@ -32,4 +35,3 @@ I look forward to keep growing in the field of Deep Learning and AI. My passion 
 For more information about my work, projects, and contributions, please visit my [LinkedIn profile](https://www.linkedin.com/in/muhammad-saadan-975474249/).
 
 <img src="https://myreadme.vercel.app/api/embed/saadan1234?panels=userstatistics,toplanguages,commitgraph,toprepositories" alt="reimaginedreadme" />
-
