@@ -1,5 +1,7 @@
 # Hi there! I'm Muhammad Saadan, a Software Engineer.
 
+For demo videos of projects, research and work please visit my [LinkedIn profile](https://www.linkedin.com/in/muhammad-saadan-975474249/).
+
 Welcome to my **Crafting Labratory**
 
 <p align="center">
