@@ -180,8 +180,9 @@ A comprehensive federated learning application tackling real-world security and 
 
 🎯 **MITACS Globalink Research Internship 2025** - Fully funded research at UQO Cybersecurity Lab  
 🏅 **Dean's Honor List Fall 2024** - Top 90+ students at NUST  
-🥇 **Shadiyana Case Study Finalist** - Presenting Real-world scalability solutions to the Case Study. 
-👥 **SGT'19 Event Head** - Led SEECS flagship event with 40+ team members, 400+ audience 
+👥 **SGT'19 Event Head** - Led SEECS flagship event with 40+ team members, 400+ audience  
+🥇 **Shadiyana Case Study Finalist** - Presenting Real-world scalability solutions to the Case Study 
+  
 
 ---
 
@@ -200,7 +201,7 @@ A comprehensive federated learning application tackling real-world security and 
 - UX/UI improvements and customer experience enhancement
 
 **💡 Deep Learning Intern** @ Optical Network Technologies Lab *(June – September 2024)*
-- Developed ML models for GSNR prediction achieving **MSE of 0.00002**
+- Developed ML models for GSNR prediction achieving **MSE of 0.002**
 - Applied XAI techniques (SHAP, LIME, ICE, PDP) for model interpretability
 
 ---
