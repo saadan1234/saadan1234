@@ -95,7 +95,7 @@ A comprehensive federated learning application tackling real-world security and 
 
 - Benchmarked multiple LLMs on software engineering tasks.
 - Worked with a large dataset containing 1000+ GitHub Issues.
-- - Ran different experimentation for LLMs and compare results on solving GitHub Issues.
+- Ran different experimentation for LLMs and compare results on solving GitHub Issues.
 
 ---
 
@@ -161,7 +161,6 @@ A comprehensive federated learning application tackling real-world security and 
 
 ### **Cybersecurity & Forensics**
 ![Autopsy](https://img.shields.io/badge/Autopsy-8B0000?style=flat-square)
-![Mimikatz](https://img.shields.io/badge/Mimikatz-FF6B6B?style=flat-square)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 ---
@@ -192,15 +191,15 @@ A comprehensive federated learning application tackling real-world security and 
 - Self-supervised speech representation learning in federated environments
 - HuBERT/Wave2vec integration with knowledge distillation
 
-**🛡️ Network Security Intern** @ NADRA HQ *(July – August 2024)*
-- Network Access Control (NAC) solution architecture
-- Firewall deployment and VPN optimization
-
 **🔍 QA & Product Research** @ Shadiyana *(April 2025 – June 2025)*
 - Cross-functional collaboration on feature ideation
 - UX/UI improvements and customer experience enhancement
 
-**💡 Deep Learning Intern** @ Optical Network Technologies Lab *(June – September 2024)*
+**🛡️ Network Security Intern** @ NADRA HQ *(July 2024 – August 2024)*
+- Network Access Control (NAC) solution architecture
+- Firewall deployment and VPN optimization
+
+**💡 Deep Learning Intern** @ Optical Network Technologies Lab *(June 2024 – September 2024)*
 - Developed ML models for GSNR prediction achieving **MSE of 0.002**
 - Applied XAI techniques (SHAP, LIME, ICE, PDP) for model interpretability
 
